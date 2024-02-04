@@ -12,7 +12,6 @@ This guide illustrates the process of setting up and configuring Active Director
 <li>Remote Desktop</li>
 <li>Active Directory Domain Services</li>
 <li>Powershell</li>
-<li>Notepad (Optional): for writing down usernames and passwords for virtual machines</li>
 </ul>
 
 
